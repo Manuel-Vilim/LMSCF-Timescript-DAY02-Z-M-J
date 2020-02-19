@@ -1,0 +1,86 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+body
+{
+	background-image: url("logo/webb.png")
+}
+.headnav
+{
+	background-color: rgba(0,0,0,0.5);
+	border-bottom: indianred 5px solid;
+}
+.logohead
+{
+	width:80px;
+	margin-right: 3%;
+
+	border: solid indianred 3px;
+	border-radius: 50%;
+}
+
+.box
+{
+	min-width: 250px;
+	min-height: 250px;
+
+	border: solid black 5px;
+	border-radius: 5px;
+
+	margin: 1%;
+
+	background-color: rgba(0,0,0,0.2)
+}
+
+
+.leftside
+{
+	display: flex;
+	
+
+	.vehicleimg
+	{
+		width:100%;
+		align-self: center;
+	}
+}
+
+.rightside
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	
+
+	p
+	{
+		width:100%;
+		text-align: center;
+		border-left: solid 3px indianred;
+	}
+}
+
+.buttondiv
+{
+	display: flex;
+	justify-content: center;
+
+
+	.priceButton
+	{
+		width: 50%;
+		height: 60%;
+		align-self: center;
+
+		border-left: indianred 2px solid;
+		border-right: indianred 2px solid;
+		border-top: none;
+		border-bottom: none;
+		border-radius: 5px;
+		background-color: rgba(0,0,0,0.2)
+
+	}
+}

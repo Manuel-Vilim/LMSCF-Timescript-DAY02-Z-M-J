@@ -1,0 +1,47 @@
+var cars = 
+[
+	{
+		"name":"CAR1",
+		"horsepower":300,
+		"topspeed":222,
+		"color":"COLOR1",
+		"motor":000,
+		"truck":"---",
+		"kilometers":000,
+		"seats":8,
+		"fueltype":"petrol"
+	},
+	{
+		"name":"CAR2",
+		"horsepower":400,
+		"topspeed":222,
+		"color":"COLOR2",
+		"motor":000,
+		"truck":"---",
+		"kilometers":000,
+		"seats":4,
+		"fueltype":"petrol"
+	},
+	{
+		"name":"CAR3",
+		"horsepower":500,
+		"topspeed":222,
+		"color":"COLOR3",
+		"motor":000,
+		"truck":"---",
+		"kilometers":000,
+		"seats":5,
+		"fueltype":"petrol"
+	},
+	{
+		"name":"CAR4",
+		"horsepower":600,
+		"topspeed":222,
+		"color":"COLOR4",
+		"motor":000,
+		"truck":"---",
+		"kilometers":000,
+		"seats":5,
+		"fueltype":"petrol"
+	},
+]
